@@ -66,6 +66,10 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
+### Community leaders contact
+* Patrick Hahn ([@patrick246](https://github.com/patrick246)), patrick.hahn@mail.schwarz
+* Engin Diri ([@dirien](https://github.com/dirien)), engin.diri@mail.schwarz
+
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
