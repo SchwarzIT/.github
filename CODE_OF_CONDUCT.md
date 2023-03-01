@@ -67,8 +67,7 @@ All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
 ### Community leaders contact
-* Patrick Hahn ([@patrick246](https://github.com/patrick246)), patrick.hahn@mail.schwarz
-* Engin Diri ([@dirien](https://github.com/dirien)), engin.diri@mail.schwarz
+You can contact the Schwarz IT Opensource Community leaders via [opensource@mail.schwarz](mailto:opensource@mail.schwarz).
 
 ## Enforcement Guidelines
 
