@@ -9,4 +9,4 @@ providing, managing and developing the IT infrastructure through operating our d
 employing modern data analysis tools, technical automation and machine learning: we are the driving force exploring
 challenging IT matters every day.
 
-Learn more at https://careers.schwarz/
+Learn more at [careers.schwarz](https://gruppe.schwarz/en/career)
